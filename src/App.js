@@ -69,6 +69,7 @@ function App() {
       }
     });
 
+    
     chartRef.current = newChartInstance;
 
     // Cleanup function if new chart  when change state
