@@ -1,0 +1,12 @@
+{
+  "universities": [
+    { "id": 1, "name": "University of Delhi","state": "delhi", "country": "India","website":"https://www.ox.ac.uk/" },
+    { "id": 2, "name": "University of Mumbai","state": "maharashtra", "country": "India","website":"https://www.ox.ac.uk/"  },
+    { "id": 3, "name": "Stanford University", "state": "newyork", "country": "United States","website":"https://www.ox.ac.uk/"  },
+    { "id": 4, "name": "oxford University", "state": "Arkansas", "country": "United States" ,"website":"https://www.ox.ac.uk/" },
+    { "id": 5, "name": "Stanford University",   "state": "California","country": "United States" ,"website":"https://www.ox.ac.uk/" },
+    { "id": 6, "name": "University of Oxford", "state": "Scotland", "country": "United Kingdom","website":"https://www.ox.ac.uk/"  },
+    { "id": 7, "name": "University of Tokyo","state": "Hiroshima", "country": "Japan","website":"https://www.ox.ac.uk/"  } 
+  
+  ]
+}
